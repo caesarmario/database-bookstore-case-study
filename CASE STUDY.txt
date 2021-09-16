@@ -1,0 +1,56 @@
+** OPU’s E-Bookstore **
+
+
+* A brief about OPU
+The availability of books and reading material for purchase within the Oceania Pacific University (OPU) is quite inadequate. 
+Although the OPU library has vast collection of books (both hardcopy and e-books), the availability of it is quite limited and bound by many restrictions. 
+Student and staffs only have the option of a small bookshop within the enterprise. Larger books store in the city are often sought for other varieties.
+In view of the growing population within OPU, the university is planning to establish an e-bookstore. 
+The online store will facilitate the purchase of latest books and material of many genres. Your team is assigned the project to design a database system for online OPU’s e-Bookstore System. 
+
+
+* Scenario:
+•	Publishers of books frequently send lists of latest books and materials to the e-bookstore manager. 
+The bookstore manager compiles a list of needed books and sends an order to the publishers. 
+The publisher supplies the ordered books to the university. 
+The bookstore manager records the details of a new book, along with the number of the books that have arrived at the bookstore. 
+An invoice is sent to the accounts department to be processed and payment made.
+
+•	Customers, who wish to purchase books online, need to initially register as members. 
+Members will be able to view the book, read reviews and compare the online products with other similar articles.
+
+•	Members who wish to purchase can select their books into the website’s shopping cart. 
+The cart will show the summary of the selection and total cost to be paid. 
+Once the payment is made, the customer will be able to print or save the receipts. 
+The bookstore will send the books to the customers within 7 working days.
+
+•	The system should manage information about books in the bookstore, inventory, (registered) customers and books they have ordered.
+It should also store information about user opinions and book ratings. 
+
+•	Users can also provide 'feedback' for a book, as a score (1-10 which is 0= terrible, 10= masterpiece) along with optional short text.
+No changes are allowed; only one feedback per user per book is allowed.
+
+
+
+* Coursework Details:
+1.	Overview
+In this case study, you are required to design, implement, and document a database system for an electronic bookstore named as OPU E-Bookstore.
+
+2.	Deliverables:
+a)	Design a database solution for the given scenario and document the following: 
+Minimum requirement of your documentation:
+•	ER Modelling
+•	Database Schema / Diagram
+•	SQL Files
+
+b)	Create the following queries using Data Manipulation Language (DML)
+	i. Find the total number of feedback per book. Show book id, book title, and total number of feedback per book. 
+	ii. Find the total number of feedback per member. Show member id, member name, and total number of feedback per member.
+	iii. Find the total number of book published by each publisher. Show publisher id, publisher name, and number of book published.
+	iv. Find the total number of book for each category. Show category id, category name, and number of book for each category.
+	v. From the book table, list the books where quantity is more than the average quantity of all books. 
+	vi. Find the total number of books ordered by store manager from various publishers.
+	vii. Produce a record of invoices for various publishers. The invoice consists of invoice number, invoice date, publisher’s names & addresses, total quantity of ordered books and total amount to be paid.
+	viii. A list of total customers based on gender who are registered as members in OPU E-Bookstore. The list should show total number of registered members and total number of gender (male and female).
+	ix. A list of purchased books that have been and have not been delivered to members. The list should show member identification number, address, contact number, book serial number, book title, quantity, date and status of delivery.
+	x. A list of total books and its total price as added by members in shopping cart.
