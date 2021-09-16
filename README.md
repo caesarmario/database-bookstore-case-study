@@ -1,9 +1,9 @@
-# Database for Bookstore (Case Study) #
+# Database for Bookstore (A Case Study) #
 
 **About this project:**
 
 
-A case study about designing simple database system for a bookstore. This repository contains ERD design and SQL codes for design of bookstore database system. The main purpose of this system is to build database system for bookstore.
+A case study about designing simple database system for a bookstore. This repository contains business problems in bookstore and the solutions for the problem. The solutions including form design, business rules, ERD design, UNF, 1NF, 2NF, 3NF, data dictionary, database schema and SQL codes for bookstore database system. The main purpose of this system is to build database system for bookstore based on case study given.
 
 
 
