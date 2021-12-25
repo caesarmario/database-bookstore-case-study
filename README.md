@@ -1,5 +1,5 @@
 <h1 align="center"> 📚 Case Study - Database Bookstore 📚 </h1>
-<p align="center">using <b>SQL 📅</b></p><br>
+<p align="center">using <b>SQL 🔩</b></p><br>
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
   <a href="https://www.github.com/caesarmario">
@@ -24,7 +24,7 @@
 
 ## 🖋 About Project:
 👉 A database built for e-bookstore case studies. <br>
-👉 The database built using SQL in Microsoft SQL Server 18. <br><br>
+👉 The database built using **SQL** in _Microsoft SQL Server 18_. <br><br>
 
 
 ## 🧾 Scenario:
